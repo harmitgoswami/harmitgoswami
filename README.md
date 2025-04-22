@@ -6,7 +6,7 @@ Not everyone can be a
 - 📺 TV show binging,
 - 🏐 Volleyball playing,
 - 🏀 NBA watching,
-- 👾 Pokémon playing,
+- 👾 Pokémon battling,
 - ☕️ Coffee sipping,
 - 🐱 Cat loving
 
