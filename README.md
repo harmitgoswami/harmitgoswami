@@ -1,16 +1,13 @@
-## Hi there 👋
+# I'm Harmit Goswami 🦀
 
-<!--
-**harmitgoswami/harmitgoswami** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Not everyone can be a 
+- [📖 Book reading](https://www.goodreads.com/user/show/139369105-harmit),
+- [🎵 Music listening](https://open.spotify.com/user/iwhdpjdgakbzlff41cqchpams),
+- 📺 TV show binging,
+- 🏐 Volleyball playing,
+- 🏀 NBA watching,
+- 👾 Pokémon playing,
+- ☕️ Coffee sipping,
+- 🐱 Cat loving
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+engineering student. So I write code too.
