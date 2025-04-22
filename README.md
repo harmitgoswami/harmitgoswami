@@ -10,4 +10,4 @@ Not everyone can be a
 - ☕️ Coffee sipping,
 - 🐱 Cat loving
 
-engineering student. So I write code too.
+engineering student. So I sometimes write code too.
