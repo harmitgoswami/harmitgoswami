@@ -1,4 +1,4 @@
-# I'm Harmit Goswami 🦀
+# Hi! I'm Harmit 🦀
 
 Not everyone can be a 
 - [📖 Book reading](https://www.goodreads.com/user/show/139369105-harmit),
